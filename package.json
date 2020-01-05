@@ -2,7 +2,7 @@
 	"name": "jxgitop",
 	"displayName": "jxgitop",
 	"description": "vscode 自动上传",
-	"version": "1.3.5",
+	"version": "1.3.6",
 	"publisher":"jianxiongsg",
 	"engines": {
 		"vscode": "^1.29.1"
